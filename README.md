@@ -1,0 +1,1 @@
+# almirall-content-mcp
